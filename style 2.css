@@ -1,0 +1,28 @@
+p {
+    color: burlywood;
+    font-size: 70px;
+
+} 
+h1 {
+    color: burlywood;
+    font-size: 70px;
+}
+div{
+    width: 50%;
+    margin: auto;
+}
+a{
+text-decoration: none;
+font-size : 100px ;
+color: yellowgreen;
+
+
+
+}
+img {
+    max-width:100% ;
+    height: auto ;
+    display: block;
+
+
+}
